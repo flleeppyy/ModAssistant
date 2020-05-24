@@ -15,6 +15,9 @@ ModAssistant is a PC mod installer for Beat Saber. It uses mods from [BeatMods](
 
 
 ## Features
+First and foremost:
+* No fucking piracy check
+
 
 ModAssistant boasts a rich feature set, some of which include:
 * Dependency resolution
